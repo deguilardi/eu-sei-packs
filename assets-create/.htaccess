@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^(.*).version /v9/assets/version.php?pack=$1 [QSA,L]
+RewriteRule ^(.*).manifest /v9/assets/manifest.php?pack=$1 [QSA,L]
+RewriteRule ^(.*).zip /v9/assets/download.php?pack=$1 [QSA,L]
