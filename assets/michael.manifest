@@ -1,1 +1,17 @@
-{"packageUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/michael.zip","remoteVersionUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/michael.version","remoteManifestUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/michael.manifest","version":"1.0.0","assets":{"main":{"key":"main","md5":"724f6cd3d9c27aedb1aaf04f831304a7","compressed":true,"size":15106472}},"searchPaths":[]}
+{
+  "packageUrl":"https://deguilardi.github.io/eu-sei-packs/assets",
+  "remoteVersionUrl":"https://deguilardi.github.io/eu-sei-packs/assets/michael.version",
+  "remoteManifestUrl":"https://deguilardi.github.io/eu-sei-packs/assets/michael.manifest",
+  "version":"1.0.0",
+  "assets":{
+    "michael.zip":{
+      "key":"michael.zip",
+      "md5":"724f6cd3d9c27aedb1aaf04f831304a7",
+      "compressed":true,
+      "size":15106472
+    }
+  },
+  "searchPaths":[
+    
+  ]
+}

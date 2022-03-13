@@ -1,1 +1,17 @@
-{"packageUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/elvis.zip","remoteVersionUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/elvis.version","remoteManifestUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/elvis.manifest","version":"1.0.0","assets":{"main":{"key":"main","md5":"6e8dcdb9ef2bde07e143e78222c9bc24","compressed":true,"size":15148553}},"searchPaths":[]}
+{
+  "packageUrl":"https://deguilardi.github.io/eu-sei-packs/assets/elvis.zip",
+  "remoteVersionUrl":"https://deguilardi.github.io/eu-sei-packs/assets/elvis.version",
+  "remoteManifestUrl":"https://deguilardi.github.io/eu-sei-packs/assets/elvis.manifest",
+  "version":"1.0.0",
+  "assets":{
+    "main":{
+      "key":"main",
+      "md5":"6e8dcdb9ef2bde07e143e78222c9bc24",
+      "compressed":true,
+      "size":15148553
+    }
+  },
+  "searchPaths":[
+    
+  ]
+}

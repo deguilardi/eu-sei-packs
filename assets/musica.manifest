@@ -1,1 +1,17 @@
-{"packageUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/musica.zip","remoteVersionUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/musica.version","remoteManifestUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/musica.manifest","version":"1.0.0","assets":{"main":{"key":"main","md5":"d6e9a4bddcd35834e2db79105b9ab312","compressed":true,"size":28814308}},"searchPaths":[]}
+{
+  "packageUrl":"https://deguilardi.github.io/eu-sei-packs/assets",
+  "remoteVersionUrl":"https://deguilardi.github.io/eu-sei-packs/assets/musica.version",
+  "remoteManifestUrl":"https://deguilardi.github.io/eu-sei-packs/assets/musica.manifest",
+  "version":"1.0.0",
+  "assets":{
+    "musica.zip":{
+      "key":"musica.zip",
+      "md5":"d6e9a4bddcd35834e2db79105b9ab312",
+      "compressed":true,
+      "size":28814308
+    }
+  },
+  "searchPaths":[
+    
+  ]
+}

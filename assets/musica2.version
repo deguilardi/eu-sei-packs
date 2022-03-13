@@ -1,1 +1,6 @@
-{"packageUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/musica2.zip","remoteVersionUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/musica2.version","remoteManifestUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/musica2.manifest","version":"1.0.0"}
+{
+  "packageUrl":"https://deguilardi.github.io/eu-sei-packs/assets",
+  "remoteVersionUrl":"https://deguilardi.github.io/eu-sei-packs/assets/musica2.version",
+  "remoteManifestUrl":"https://deguilardi.github.io/eu-sei-packs/assets/musica2.manifest",
+  "version":"1.0.0"
+}

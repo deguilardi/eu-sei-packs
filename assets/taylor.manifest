@@ -1,1 +1,17 @@
-{"packageUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/taylor.zip","remoteVersionUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/taylor.version","remoteManifestUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/taylor.manifest","version":"1.0.0","assets":{"main":{"key":"main","md5":"3135ac7fe5512c2ee3cc95861f0e5146","compressed":true,"size":17981566}},"searchPaths":[]}
+{
+  "packageUrl":"https://deguilardi.github.io/eu-sei-packs/assets",
+  "remoteVersionUrl":"https://deguilardi.github.io/eu-sei-packs/assets/taylor.version",
+  "remoteManifestUrl":"https://deguilardi.github.io/eu-sei-packs/assets/taylor.manifest",
+  "version":"1.0.0",
+  "assets":{
+    "taylor.zip":{
+      "key":"taylor.zip",
+      "md5":"3135ac7fe5512c2ee3cc95861f0e5146",
+      "compressed":true,
+      "size":17981566
+    }
+  },
+  "searchPaths":[
+    
+  ]
+}

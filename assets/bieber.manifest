@@ -1,1 +1,17 @@
-{"packageUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/bieber.zip","remoteVersionUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/bieber.version","remoteManifestUrl":"https:\/\/deguilardi.github.io\/eu-sei-packs\/assets\/bieber.manifest","version":"1.0.0","assets":{"main":{"key":"main","md5":"44ed37ee8560ab74a870ea49707f80a3","compressed":true,"size":16044270}},"searchPaths":[]}
+{
+  "packageUrl":"https://deguilardi.github.io/eu-sei-packs/assets",
+  "remoteVersionUrl":"https://deguilardi.github.io/eu-sei-packs/assets/bieber.version",
+  "remoteManifestUrl":"https://deguilardi.github.io/eu-sei-packs/assets/bieber.manifest",
+  "version":"1.0.0",
+  "assets":{
+    "bieber.zip":{
+      "key":"bieber.zip",
+      "md5":"44ed37ee8560ab74a870ea49707f80a3",
+      "compressed":true,
+      "size":16044270
+    }
+  },
+  "searchPaths":[
+    
+  ]
+}
